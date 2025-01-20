@@ -1,0 +1,6 @@
+*.log
+temp/
+.DS_Store
+diamonds.csv
+
+
