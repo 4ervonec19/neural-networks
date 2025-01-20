@@ -1,0 +1,7 @@
+*.log
+temp/
+layers.py
+MNIST/
+__pycache__
+
+
